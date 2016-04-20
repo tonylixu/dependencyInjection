@@ -22,11 +22,17 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <processorPath useClasspath="true" />
-        <module name="dependencyInjection" />
+        <module name="add-service" />
+        <module name="player-service" />
+        <module name="playerService" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="add-service" target="1.5" />
       <module name="dependencyInjection" target="1.5" />
+      <module name="player-service" target="1.5" />
+      <module name="playerService" target="1.5" />
+      <module name="sample2" target="1.5" />
     </bytecodeTargetLevel>
   </component>
 </project>
