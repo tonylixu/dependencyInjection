@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/add-service/add-service.iml" filepath="$PROJECT_DIR$/add-service/add-service.iml" />
       <module fileurl="file://$PROJECT_DIR$/dependencyInjection.iml" filepath="$PROJECT_DIR$/dependencyInjection.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fortune/fortune.iml" filepath="$PROJECT_DIR$/fortune/fortune.iml" />
       <module fileurl="file://$PROJECT_DIR$/playerService/playerService.iml" filepath="$PROJECT_DIR$/playerService/playerService.iml" />
     </modules>
   </component>

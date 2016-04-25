@@ -28,6 +28,7 @@
     <modules>
         <module>add-service</module>
         <module>playerService</module>
+        <module>fortune</module>
     </modules>
 
 </project>
