@@ -14,7 +14,6 @@ public class ChefTest
         Chef chef = new Chef(mock);
         chef.makeFortuneCookie();
         assertTrue(mock.calledOnce());
-
     }
 
     class FortuneServiceMock implements FortuneService
@@ -32,4 +31,5 @@ public class ChefTest
             return invocationCount == 1;
         }
     }
+
 }
